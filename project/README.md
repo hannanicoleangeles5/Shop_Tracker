@@ -4,7 +4,7 @@ Copy this into your workspace `project/README.md` and fill it in.
 
 ## My project repository
 
-Public repository:*https://github.com/hannanicoleangeles5/Shop_Tracke*
+Public repository:*https://github.com/hannanicoleangeles5/Shop_Tracker*
 
 Live app (if deployed): (https://hannanicoleangeles5.github.io/Shop_Tracker/)
 
